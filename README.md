@@ -37,34 +37,34 @@ Glossário do conjunto de dados:
 
 ## Análise Exploratória
 
-![img](imagens/01.png)
+![img](imagens/1.png)
 
 Do autor:
 - Primeiro, criei colunas que representam cada ano. Depois, usei essas colunas para filtrar o volume de transações por ano. Com essas informações, obtive um gráfico para mostrar como o volume de transações varia de um ano para o outro."
 
 ---
 
-![img](imagens/02.png)
+![img](imagens/2.png)
 
 Do autor:
 - Após criar colunas para os anos, usei essas colunas para filtrar o preço de abertura das ações de cada ano e fazer um gráfico de linhas com anotações. O gráfico mostra como o preço de abertura das ações varia de um ano para o outro, e podemos ver que o valor mais alto foi em 2021.
 
 ---
 
-![img](imagens/03.png)
+![img](imagens/3.png)
 
 Do auto:
 - Após criar colunas representando os anos, utilizei essas colunas para filtrar o preço de fechamento da ação de negociação ano a ano. Em seguida, gerei um gráfico de linhas com anotações para visualizar a diferença no preço de fechamento entre os anos. A partir desse gráfico, é possível observar que o preço de fechamento mais alto ocorreu em 2021.
 
 ---
 
-![img](imagens/04.png)
+![img](imagens/4.png)
 
 - Após criar colunas para os anos, utilizei essas colunas para filtrar o preço máximo da ação de negociação de acordo com cada ano. Em seguida, gerei um gráfico de linhas com anotações para mostrar a diferença entre os anos com base no preço máximo da ação. A partir desse gráfico, podemos observar que o fechamento máximo ocorreu em 2021.
 
 ---
 
-![img](imagens/05.png)
+![img](imagens/5.png)
 
 Do autor:
 - **Preço Mínimo da Ação:** Após criar colunas para os anos, utilizei essas colunas para filtrar o preço mínimo da ação de negociação para cada ano. Em seguida, gerei um gráfico de linhas com anotações para mostrar a diferença entre os anos com base no preço mínimo da ação. A partir desse gráfico, podemos observar que o preço mais baixo ocorreu em 2010.
@@ -73,22 +73,22 @@ Do autor:
 
 ---
 
-![img](imagens/06.png)
+![img](imagens/6.png)
 
 Do autor:
 - Podemos observar no gráfico a diferença entre o preço de abertura e o preço de fechamento da ação.
 
 ---
 
-![img](imagens/07.png)
+![img](imagens/7.png)
 
 Do autor:
 - Podemos ver no gráfico a diferença entre o preço mais alto e o preço mais baixo da ação.
 
 ## Distribuições
 
-![img](imagens/08.png)
-![img](imagens/09.png)
+![img](imagens/8.png)
+![img](imagens/9.png)
 ![img](imagens/10.png)
 ![img](imagens/11.png)
 ![img](imagens/12.png)
